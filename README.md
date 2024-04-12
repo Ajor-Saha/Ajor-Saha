@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sokarama79@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XXwQng0Hdk4qlX5v_hY3uzqfU8W9hBsH/view?usp=sharing](https://drive.google.com/file/d/1XXwQng0Hdk4qlX5v_hY3uzqfU8W9hBsH/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XXwQng0Hdk4qlX5v_hY3uzqfU8W9hBsH/view?usp=sharing](https://drive.google.com/file/d/1vBWyZ2rVg8ZlQ6tkc1gMZkBEHKg7a5rF/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
