@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs,TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://port-foilo-project.vercel.app/](https://port-foilo-project.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://port-foilo-project.vercel.app/](https://profile-project-henna.vercel.app/)
 
 - 📫 How to reach me **sokarama79@gmail.com**
 
