@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/ar.saha.9?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajor saha" height="30" width="40" /></a>
+<a href="sokarama79@gmail.com" target="blank"><img align="center" src="https://drive.google.com/file/d/1IyVJ_Xf5Mg9-EjDgTCqtPuhFpnvM0HMT/view?usp=sharing" alt="ajor saha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
