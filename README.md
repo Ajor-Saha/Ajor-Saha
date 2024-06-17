@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajor-saha&label=Profile%20views&color=0e75b6&style=flat" alt="ajor-saha" /> </p>
 
-- 🌱 I’m currently learning **Nextjs,TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://port-foilo-project.vercel.app/](https://profile-project-henna.vercel.app/)
 
