@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sokarama79@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XXwQng0Hdk4qlX5v_hY3uzqfU8W9hBsH/view?usp=sharing](https://docs.google.com/document/d/1cH4wKrQehwDeOVTUuuM419BGR4HiuaVcI2sUfdYbQ_Y/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XXwQng0Hdk4qlX5v_hY3uzqfU8W9hBsH/view?usp=sharing](https://drive.google.com/file/d/1p1mUe3KLmEhm-jMg9I0SrE3r4qE4O2MM/view?usp=sharing)
 
 
 
