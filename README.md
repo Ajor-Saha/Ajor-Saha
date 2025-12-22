@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajor-saha&label=Profile%20views&color=0e75b6&style=flat" alt="ajor-saha" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://personal-site-portfolio.app//](https://personal-site-portfolio-three.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://personal-site-portfolio.app/](https://personal-site-portfolio-three.vercel.app/)
 
 - 📫 How to reach me **sokarama79@gmail.com**
 
