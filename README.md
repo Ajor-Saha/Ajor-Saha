@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajor-saha&label=Profile%20views&color=0e75b6&style=flat" alt="ajor-saha" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://port-foilo-project.vercel.app/](https://profile-project-henna.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://personal-site-portfolio.app//](https://personal-site-portfolio-three.vercel.app/)
 
 - 📫 How to reach me **sokarama79@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XXwQng0Hdk4qlX5v_hY3uzqfU8W9hBsH/view?usp=sharing](https://drive.google.com/file/d/1p1mUe3KLmEhm-jMg9I0SrE3r4qE4O2MM/view?usp=sharing)
+- 📄 Know about my experiences [see my resume](https://drive.google.com/file/d/1uu_vEtBtGZVpx_tKS8Llwvu_uAi_chl4/view?usp=sharing)
 
 
 
